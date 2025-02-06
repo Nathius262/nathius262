@@ -30,10 +30,31 @@ With a reputation for reliability, trustworthiness, and an unwavering commitment
 
 ---
 
-### **🔧 Skills and Technologies**
-- **Languages & Frameworks**: HTML, CSS, JavaScript, Python, Django, Django Rest Framework, Bootstrap, Node.js, Express.js
-- **Tools & Platforms**: Git, SEO
-- **Specialization**: Full-stack web development, RESTful APIs, and e-commerce platforms
+### 🔧 Skills and Technologies
+
+#### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
+</p>
+
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="SEO" width="50"/>
+</p>
+
+#### 💡 Specialization
+- 🌐 Full-Stack Web Development
+- 🔗 RESTful APIs
+- 🛒 E-commerce Platforms
+
 
 ---
 
