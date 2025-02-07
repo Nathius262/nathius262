@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # **Nathaniel Egbodo**
 
-### **Full Stack Web Developer**
+## **Full Stack Web Developer**
 
 ---
 
-### **👨‍💻 About Me**
+## **👨‍💻 About Me**
 
 As a dedicated and goal-driven web developer, I specialize in delivering high-quality, innovative, and user-focused digital solutions. My technical expertise spans diverse technologies and frameworks, enabling me to solve complex challenges while ensuring exceptional user experiences.
 
@@ -30,35 +30,61 @@ With a reputation for reliability, trustworthiness, and an unwavering commitment
 
 ---
 
-### 🔧 Skills and Technologies
+# 🔧 Skills & Technologies
 
-#### 🚀 Languages & Frameworks
+## 🖥️ Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
-#### 🛠️ Tools & Platforms
+## ⚙️ Runtime Environment
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="SEO" width="50"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-#### 💡 Specialization
-- 🌐 Full-Stack Web Development
-- 🔗 RESTful APIs
-- 🛒 E-commerce Platforms
+## 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Ocean-%230080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-%2301A0E4.svg?&style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobaXterm-%234D4D4D.svg?&style=for-the-badge&logo=mobaXterm&logoColor=white"/>
+</p>
 
+## 🗄️ Databases & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?&style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+## 📊 Analytics & SEO
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?&style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sites-%234285F4.svg?&style=for-the-badge&logo=googlesites&logoColor=white"/>
+</p>
+
+## 💻 Operating System & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Namecheap-%23DE3723.svg?&style=for-the-badge&logo=namecheap&logoColor=white"/>
+</p>
+
+## 🔥 Specialization
+- 🌐 Full-Stack Web Development  
+- 🔗 RESTful APIs  
+- 🛒 E-commerce Platforms  
 
 ---
 
-### **🚀 Projects**
+# **🚀 Projects**
 
 #### **[Pixtinfinity (My Official Business Website)](https://github.com/Nathius262/pixtinfinity-node-js-integration)**
 A web development initiative aimed at transforming human ideas into virtual experiences. This project represents a collaborative effort to deliver innovative, user-centric solutions.
@@ -80,22 +106,36 @@ A fully functional e-commerce platform offering scrubs and medical consultation 
 
 ---
 
-### **🌐 Connect with Me**
+# 🌐 Connect with Me
 
-- **LinkedIn**: [Nathaniel Egbodo](https://www.linkedin.com/in/egbodo-nathaniel/)  
-- **Website**: [Pixtinfinity](https://www.pixtinfinity.com/)  
-- **Facebook**: [Nathaniel Egbodo](https://www.facebook.com/profile.php?id=100009833828323)  
-- **Instagram**: [@nathius262](https://www.instagram.com/nathius262/)  
-- **Twitter**: [@EgbodoNath5142](https://x.com/EgbodoNath5142)
-- **Phone**:
-  - +2348131551969,
-  - +2349031653459
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathaniel-egbodo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.pixtinfinity.com">
+    <img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.facebook.com/nathaniel.egbodo">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/nathius262">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/EgbodoNath5142">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+### 📞 Contact Me
+<p align="left">
+  <img src="https://img.shields.io/badge/Phone-%2300A8E8.svg?&style=for-the-badge&logo=phone&logoColor=white"/>
+  <strong>+234 813 155 1969</strong> | <strong>+234 903 165 3459</strong>
+</p>
+
 
 ---
 
-### **📊 GitHub Stats**
-
----
+# **📊 GitHub Stats**
 
 #### **Detailed Profile Overview**  
 <div style="display: flex; justify-content: center;">
@@ -130,5 +170,4 @@ A fully functional e-commerce platform offering scrubs and medical consultation 
 ---
 
 ### **🌟 Contribution Graph**
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nathius262&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nathius262&theme=dracula)
